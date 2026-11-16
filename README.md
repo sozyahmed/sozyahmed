@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Sozy Ahmed, mum and admin assistant with a BSc in healthcare science🧬🩺, leaping into the world of Data Analytics!📈📋
-I am currently working on GitHub projects to showcase the skills I have learned in Level 3 Data Technician Bootcamp. Ask me about my current projects. 😄
+I am currently working on GitHub projects to showcase the skills that I have learned in Level 3 Data Technician Bootcamp. Ask me about my current projects. 😄
 <!--
 **sozyahmed/sozyahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
